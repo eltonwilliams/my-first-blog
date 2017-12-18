@@ -25,7 +25,11 @@ SECRET_KEY = 'e!r5g2kh@$7gv7k2%#(1&@e4-@+&xa^)=0$2)**w3n%s98xu%j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['eltonwilliams.pythonanywhere.com']
+=======
+ALLOWED_HOSTS = [ 'eltonwilliams.pythonanywhere.com' ]
+>>>>>>> 9156a9383836437f68222c6f8aefbb707c5b1eeb
 
 
 # Application definition
